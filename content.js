@@ -1,10 +1,10 @@
 (function () {
-    if (document.getElementById("bluez-reader-wrapper")) {
+    if (document.getElementById("reader-wrapper")) {
         return;
     }
 
     const wrapper = document.createElement("div");
-    wrapper.id = "bluez-reader-wrapper";
+    wrapper.id = "reader-wrapper";
 
     while (document.body.firstChild) {
         wrapper.appendChild(document.body.firstChild);
