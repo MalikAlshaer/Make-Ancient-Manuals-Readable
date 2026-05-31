@@ -14,7 +14,7 @@ Replace it with a `*`
 
 You end up with: https://ftp.gnu.org/old-gnu/Manuals/gas-2.9.1/html_node/*
 
-Finally take that and past it in the square brackets in `manifest.json` where it says `matches:`. Add as many links as you want, more links represent a higher IQ according to every science blog in the universe.
+Finally take that and paste it in the square brackets in `manifest.json` where it says `matches:`. Add as many links as you want, more links represent a higher IQ according to every science blog in the universe.
 
 Now go have fun being able to read without losing your eyesight
 
