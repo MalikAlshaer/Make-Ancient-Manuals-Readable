@@ -1,10 +1,10 @@
-AI garbage I cooked up\
+AI garbage I cooked up
 
-Made so [bluez-intro](https://people.csail.mit.edu/albert/bluez-intro/index.html) is a bit more readable.\
+Made so [bluez-intro](https://people.csail.mit.edu/albert/bluez-intro/index.html) is a bit more readable.
 
-Only works for chrome based browsers as of now\
+Only works for chrome based browsers as of now
 
-To try it out:\
+To try it out:
 1. Clone the repo
 2. In Chrome, go to (chrome://extensions)
 3. Enable 'Developer Mode'
