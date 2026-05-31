@@ -1,6 +1,6 @@
 AI garbage I cooked up
 
-Made so [bluez-intro](https://people.csail.mit.edu/albert/bluez-intro/index.html) is a bit more readable.
+Made so [the bluez (docs?)](https://people.csail.mit.edu/albert/bluez-intro/index.html) are a bit more readable.
 
 Only works for chrome based browsers as of now
 
